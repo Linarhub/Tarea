@@ -1,0 +1,3 @@
+C:/Users/Linarmode/CLionProjects/Herencia/cmake-build-debug/CMakeFiles/Herencia.dir
+C:/Users/Linarmode/CLionProjects/Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Linarmode/CLionProjects/Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
